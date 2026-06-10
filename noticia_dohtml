@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tarifas dos EUA sobre produtos brasileiros podem chegar a 37,5% com sobretaxa adicional, diz governo</h1>
+
+<img src="lula foto.avif" alt="Produtos brasileiros" class="imagem-noticia">
+
+   <p> A combinação de tarifas propostas pelos Estados Unidos sobre produtos brasileiros pode elevar a carga total a 37,5%, caso as medidas sejam implementadas.
+
+O entendimento é de vários órgãos do governo como Itamaraty, Ministério da Fazenda e Ministério do Desenvolvimento Indústria e Comércio (leia mais abaixo).
+</p>
+
+<p><br>O percentual resulta de investigações conduzidas pelo Escritório do Representante de Comércio dos Estados Unidos (USTR).<br/>
+
+O primeiro relatório, divulgado na segunda-feira (1º), prevê a aplicação de tarifas de 25% sobre mercadorias brasileiras, sob a alegação de que o governo adota práticas que “oneram ou restringem” o comércio com os norte-americanos.
+</p>
+
+<p>
+    Já uma segunda linha, concluída na terça-feira (2), aponta que 60 países — entre eles o Brasil — falharam em proibir e fiscalizar a importação de mercadorias produzidas com trabalho forçado.
+
+Como resposta, o governo americano propôs uma taxa adicional de 12,5%.
+</p>
+
+<footer>
+<p>
+    <h3>Portal de noticias</h3>
+    <!-- Círculo -->
+        <div class="circulo">
+            <img src="download.png" alt="Logo">
+        </div>
+</p>
+    </footer>
+</body>
+</html>
